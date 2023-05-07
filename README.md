@@ -74,10 +74,10 @@ Screenshots of the app are included below:
 
 ![Article List Screen](https://github.com/alamen-pgooja/ny_times_pop_articles/blob/main/screenshots/1.png)
 
-![Article Detail Screen](https://github.com/alamen-pgooja/ny_times_pop_articles/blob/main/screenshots/2.png)
-![Article Detail Screen](https://github.com/alamen-pgooja/ny_times_pop_articles/blob/main/screenshots/3.png)
-![Test Coverage](https://github.com/alamen-pgooja/ny_times_pop_articles/blob/main/screenshots/test1.png)
-![Test Coverage](https://github.com/alamen-pgooja/ny_times_pop_articles/blob/main/screenshots/test2.png)
+![Article Detail Screen](https://github.com/alamen-pgooja/times_article_app/blob/main/screenshots/2.png)
+![Article Detail Screen](https://github.com/alamen-pgooja/times_article_app/blob/main/screenshots/3.png)
+![Test Coverage](https://github.com/alamen-pgooja/times_article_app/blob/main/screenshots/test1.png)
+![Test Coverage](https://github.com/alamen-pgooja/times_article_app/blob/main/screenshots/test2.png)
 
 ## License
 
