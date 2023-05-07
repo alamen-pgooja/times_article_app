@@ -72,7 +72,7 @@ This project follows the best coding practices, including the use of null safety
 
 Screenshots of the app are included below:
 
-![Article List Screen](https://github.com/alamen-pgooja/ny_times_pop_articles/blob/main/screenshots/1.png)
+![Article List Screen](https://github.com/alamen-pgooja/times_article_app/blob/main/screenshots/1.png)
 
 ![Article Detail Screen](https://github.com/alamen-pgooja/times_article_app/blob/main/screenshots/2.png)
 ![Article Detail Screen](https://github.com/alamen-pgooja/times_article_app/blob/main/screenshots/3.png)
